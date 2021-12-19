@@ -1,0 +1,28 @@
+PODS:
+  - FittedSheets (2.4.2)
+  - GoogleMaps (6.0.1):
+    - GoogleMaps/Maps (= 6.0.1)
+  - GoogleMaps/Base (6.0.1)
+  - GoogleMaps/Maps (6.0.1):
+    - GoogleMaps/Base
+  - Pulsator (0.6.0)
+
+DEPENDENCIES:
+  - FittedSheets
+  - GoogleMaps (= 6.0.1)
+  - Pulsator
+
+SPEC REPOS:
+  trunk:
+    - FittedSheets
+    - GoogleMaps
+    - Pulsator
+
+SPEC CHECKSUMS:
+  FittedSheets: 661408776eb4ff514a31da75b3600bd7222b2b3d
+  GoogleMaps: c213fc2334b7374144cede914da779b99be0ab74
+  Pulsator: eb5a9f9be4bdcbd19903984c65deca6aabe50a17
+
+PODFILE CHECKSUM: dddfc871f673ae5707eb94e24f8f6a9a3977a696
+
+COCOAPODS: 1.11.2
